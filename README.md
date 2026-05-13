@@ -1,16 +1,20 @@
-## Hi there 👋
+<div align="center">
+Hey, I'm FLASH 👋
+B.Tech CSE @ KIIT University · IoT Tinkerer · Photography Lead, NSS SCE
+</div>
 
-<!--
-**Flash102416/Flash102416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
 
-Here are some ideas to get you started:
+🎓 CS undergrad who loves building real things — hardware to full-stack
+📸 Photography Lead @ NSS SCE — the lens found me at the Taj Mumbai and a Goddess Durga idol
+🔧 Always tinkering with microcontrollers, apps, or whatever's broken
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🛠️ Tech Stack
+Java C JavaScript Python · ESP32 Arduino
+
+🔭 Projects
+🌡️ ESP32 Environmental Monitor
+Multi-sensor IoT system (DHT11, MQ-135, SW-420) with OLED display and real-time cloud dashboard.
+🤝 SkillBridge.in
+Platform connecting marginalized communities to vocational training — built for an Ideathon.
